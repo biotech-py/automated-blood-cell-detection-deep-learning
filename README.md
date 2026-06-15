@@ -131,6 +131,9 @@ Future improvements:
 
 ---
 
+Source code and deployment are available on the Hugging Face Space.
+
+---
 
 ## Author
 
