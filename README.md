@@ -3,6 +3,17 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-red)
 ![Gradio](https://img.shields.io/badge/Gradio-Web_App-orange)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-yellow)
+
+---
+
+## Live Demo
+
+🔗 Hugging Face Space:
+
+https://huggingface.co/spaces/nirupam-joarder/blood-cell-detector
+
+---
+
 # 🩸 Automated Blood Cell Detection and Classification using Deep Learning
 
 ## Overview
@@ -12,13 +23,7 @@ This project presents a deep learning-based system for automated detection, clas
 The system can identify multiple blood cell types, visualize detections with bounding boxes, and provide automated cell count summaries.
 
 ---
-## Live Demo
 
-🔗 Hugging Face Space:
-
-https://huggingface.co/spaces/nirupam-joarder/blood-cell-detector
-
----
 
 ## Features
 
