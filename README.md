@@ -110,15 +110,23 @@ The project is deployed on Hugging Face Spaces and can perform real-time blood c
 
 ---
 
-## Future Improvements
+## Model Status
 
-* Larger training dataset
-* Improved classification accuracy
-* Confidence threshold controls
-* Downloadable detection reports
-* Batch image processing
+Current version is a proof-of-concept trained for 20 epochs.
+
+The model successfully performs blood cell detection and classification but may produce misclassifications due to limited training duration.
+
+Future improvements:
+- Train for 100+ epochs
+- Increase dataset size
+- Hyperparameter tuning
+- Cross-validation
+- Improved classification accuracy
+- Confidence threshold controls
+- Batch image processing
 
 ---
+
 
 ## Author
 
