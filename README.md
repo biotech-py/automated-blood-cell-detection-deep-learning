@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-red)
+![Gradio](https://img.shields.io/badge/Gradio-Web_App-orange)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Spaces-yellow)
 # 🩸 Automated Blood Cell Detection and Classification using Deep Learning
 
 ## Overview
