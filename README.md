@@ -70,16 +70,6 @@ Images were annotated in YOLO format and used for object detection training.
 
 ## Technology Stack
 
-* Python
-* YOLOv8 (Ultralytics)
-* OpenCV
-* Gradio
-* Hugging Face Spaces
-
----
-
-## Skills Demonstrated
-
 - Computer Vision
 - Deep Learning
 - Object Detection
