@@ -58,15 +58,15 @@ The model is trained to detect the following blood cell types:
 
 ### Homepage
 
-(Add homepage.png here)
+![Homepage](homepage.jpeg)
 
 ### Blood Cell Detection
 
-(Add detection_result.png here)
+![Detection Result](detection_result.jpeg)
 
 ### Negative Test
 
-(Add negative_test.png here)
+![Negative Test](negative_test.jpeg)
 
 ---
 
