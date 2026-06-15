@@ -7,6 +7,13 @@ This project presents a deep learning-based system for automated detection, clas
 The system can identify multiple blood cell types, visualize detections with bounding boxes, and provide automated cell count summaries.
 
 ---
+## Live Demo
+
+🔗 Hugging Face Space:
+
+https://huggingface.co/spaces/nirupam-joarder/blood-cell-detector
+
+---
 
 ## Features
 
