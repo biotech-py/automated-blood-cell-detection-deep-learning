@@ -78,6 +78,20 @@ Images were annotated in YOLO format and used for object detection training.
 
 ---
 
+## Skills Demonstrated
+
+- Computer Vision
+- Deep Learning
+- Object Detection
+- YOLOv8
+- Python
+- OpenCV
+- Gradio
+- Hugging Face Deployment
+- GitHub Project Management
+
+---
+
 ## Workflow
 
 1. Upload a blood smear image.
