@@ -131,7 +131,11 @@ Future improvements:
 
 ---
 
-Source code and deployment are available on the Hugging Face Space.
+## Source Code
+
+Deployment and application source code are available on Hugging Face:
+
+https://huggingface.co/spaces/nirupam-joarder/blood-cell-detector
 
 ---
 
