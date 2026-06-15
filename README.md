@@ -51,6 +51,23 @@ The model is trained to detect the following blood cell types:
 
 ---
 
+## Dataset
+
+The model was trained on a blood cell microscopy dataset containing:
+
+- Basophil
+- Eosinophil
+- Erythroblast
+- Immature Granulocyte (IG)
+- Lymphocyte
+- Monocyte
+- Neutrophil
+- Platelets
+
+Images were annotated in YOLO format and used for object detection training.
+
+---
+
 ## Technology Stack
 
 * Python
